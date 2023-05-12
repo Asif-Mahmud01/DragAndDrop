@@ -6,4 +6,5 @@ Used library: React
 Used hook: UseEffect, UseState
 Upload: GitHub(raw code), FireBase(Live site)
 Features: Drag and drop, responsive(small, medium, large)
+Installed: react-dnd, uid-npm, react-hot-toast
 Live link: 
